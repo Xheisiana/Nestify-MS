@@ -18,7 +18,7 @@ Organize staff details such as work hours, roles, salary, and shift assignments.
 Facilitate communication with parents regarding important updates, upcoming events, and children’s progress. Notify parents about school activities, meetings, and other relevant news.
 
 **Meal Planning & Dietary Management:**  
-Customize menus based on dietary needs and allergies. Track meal consumption for individual children. Notify parents of meal schedules and dietary changes
+Customize menus based on dietary needs and allergies. Track meal consumption for individual children. Notify parents of meal schedules and dietary changes.
 
 **Reports and Analytics:**  
 Generate detailed reports on attendance, staff performance, and financials, helping the administration make informed decisions.
@@ -29,8 +29,8 @@ Schedule and notify parents of upcoming events such as parent-teacher meetings, 
 ## Features  
 **User Roles:**  
 **Admin:** Full access to all features, including managing children’s records, staff, and reports.  
-**Staff:** Limited access to their own attendance and records.  
-**Parents:** View only their child’s records and attendance.  
+**Staff:** Limited access to their own attendance and personalized records.
+**Parents:** View only their child’s records, attendance, upcoming events, daily meal preps.  
 **Security & Data Privacy:**  
 Secure login system to protect sensitive data, including children’s personal and medical details.
 
