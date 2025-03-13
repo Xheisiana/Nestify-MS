@@ -27,9 +27,19 @@ Generate detailed reports on attendance, staff performance, and financials, help
 Schedule and notify parents of upcoming events such as parent-teacher meetings, school holidays, and class activities.
 
 ## Features  
-**User Roles:**  
+**Connection with the software**  
 **Admin:** Full access to all features, including managing children’s records, staff, and reports.  
-**Staff:** Limited access to their own attendance and personalized records.
+**Teachers:**  Dashboard for Daily Activities. 
+Real-Time Communication. 
+Event Coordination.  
+**Sanitars:**  Task Management & Checklists. 
+Maintenance Logs. 
+Schedule Synchronization.  
+**Chefs:**  
+Meal Planning through access to child records. 
+Inventory and Storage Management. 
+Restock Alerts.  
+
 **Parents:** View only their child’s records, attendance, upcoming events, daily meal preps.  
 **Security & Data Privacy:**  
 Secure login system to protect sensitive data, including children’s personal and medical details.
