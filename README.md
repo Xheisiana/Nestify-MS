@@ -28,9 +28,9 @@ Schedule and notify parents of upcoming events such as parent-teacher meetings, 
 
 ## Features  
 **User Roles:**  
-**Admin:** Full access to all features, including managing children’s records, staff, and reports.
-**Staff:** Limited access to their own attendance and records.
-**Parents:** View only their child’s records and attendance.
+**Admin:** Full access to all features, including managing children’s records, staff, and reports.  
+**Staff:** Limited access to their own attendance and records.  
+**Parents:** View only their child’s records and attendance.  
 **Security & Data Privacy:**  
 Secure login system to protect sensitive data, including children’s personal and medical details.
 
