@@ -1,5 +1,5 @@
 # Nestify-MS
-Nestify-MS 🏫🌼
+**Nestify-MS 🏫🌼**
 A comprehensive software solution designed to streamline the management of a kindergarten, ensuring smooth operations, efficient record-keeping, and effective communication between staff and parents.
 
 Purpose
@@ -20,6 +20,9 @@ Facilitate communication with parents regarding important updates, upcoming even
 Reports and Analytics:
 Generate detailed reports on attendance, staff performance, and financials, helping the administration make informed decisions.
 
+Event Management:
+Schedule and notify parents of upcoming events such as parent-teacher meetings, school holidays, and class activities.
+
 Features
 User Roles:
 
@@ -28,9 +31,6 @@ Staff: Limited access to their own attendance and records.
 Parents: View only their child’s records and attendance.
 Security & Data Privacy:
 Secure login system to protect sensitive data, including children’s personal and medical details.
-
-Event Management:
-Schedule and notify parents of upcoming events such as parent-teacher meetings, school holidays, and class activities.
 
 Goals
 The goal of this system is to provide an easy-to-use, secure, and organized platform to improve the efficiency of managing a kindergarten’s daily operations, enhancing communication between staff, parents, and administrators.
