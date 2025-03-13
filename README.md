@@ -1,5 +1,5 @@
-# Nestify-MS
-## Nestify-MS 🏫🌼 
+
+# Nestify-MS 🏫🌼 
 A comprehensive software solution designed to streamline the management of a kindergarten, ensuring smooth operations, efficient record-keeping, and effective communication between staff and parents.
 
 ## Purpose  
