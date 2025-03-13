@@ -1,6 +1,6 @@
 
 # Nestify-MS 🏫🌼 
-A comprehensive software solution designed to streamline the management of a kindergarten, ensuring smooth operations, efficient record-keeping, and effective communication between staff and parents.
+A comprehensive software solution designed to streamline the daily operations of managing a kindergarten, ensuring smooth operations, efficient record-keeping, meal planning and effective communication between staff and parents.
 
 ## Purpose  
 This system aims to provide the administration with a centralized platform to manage key aspects of a kindergarten, including:
