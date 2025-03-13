@@ -35,11 +35,10 @@ Event Coordination.
 **Sanitars:**  Task Management & Checklists. 
 Maintenance Logs. 
 Schedule Synchronization.  
-**Chefs:**  
+**Chefs:** 
 Meal Planning through access to child records. 
 Inventory and Storage Management. 
 Restock Alerts.  
-
 **Parents:** View only their child’s records, attendance, upcoming events, daily meal preps.  
 **Security & Data Privacy:**  
 Secure login system to protect sensitive data, including children’s personal and medical details.
